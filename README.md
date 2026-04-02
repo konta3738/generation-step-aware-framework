@@ -1,4 +1,4 @@
-# Generation-Step-Aware Framework
+# Generation-Step-Aware Framework for Cross-Modal Representation and Control in Multilingual Speech–Text Models
 
 ## Overview
 
